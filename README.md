@@ -13,15 +13,15 @@ In `js/script.js`, build a president constructor function with following attribu
 
 Add following methods to the prototype: 
 
-+ `veto` - returns NO!
++ `veto` - returns "NO!""
 
-+ `passBill` - returns "you can do that!"
++ `passBill` - returns "You can do that!"
 
 + `doCharity` - returns "I like to help people"
 
 + `conductPressInterview` - "I am proud to be an american"
 
-+ `sayHi` - return "Hi, my name is <name>, I am from <homestate>. I represent <politcalParty> and am from <homeState>."
++ `sayHi` - return "Hi, my name is <name>. I am from <homestate>. I represent the <politcalParty>s and am was in office <yearsInOffice>."
 
 Then create the following presidents: George Washington, Abraham Lincoln, Richard Nixon, and Jimmy Carter.
 
