@@ -7,21 +7,21 @@
 
 ## Instructions
 
-Build a president constructor function with following attributes: name, politicaParty, yearsInOffice, homeState
+We're tutoring a high school student in US History, and they have to memorize all the presidents of the United States, and relevant information. You want to make studying fun, so you plan to build a little app to help quiz them. For now, we're just going to build out the database.
 
-add following functions - veto, passBill, doCharity, conductPressInterview, sayHi
+In `js/script.js`, build a president constructor function with following attributes: `name`, `politicaParty`, `yearsInOffice`, and `homeState`.
 
-veto - returns NO!
+Add following methods to the prototype: 
 
-passBill - returns "you can do that!"
++ `veto` - returns NO!
 
-doCharity - returns "i like to help people"
++ `passBill` - returns "you can do that!"
 
-conductPressInterview - "I am proud to be an american"
++ `doCharity` - returns "I like to help people"
 
-sayHi - return "hi my name is <name>, i am from <homestate>. I represent <politcalParty> and am from <homeState>"
++ `conductPressInterview` - "I am proud to be an american"
 
-create presidents - george washington, abraham lincoln, richard nixon, jimmy carter
++ `sayHi` - return "Hi, my name is <name>, I am from <homestate>. I represent <politcalParty> and am from <homeState>."
 
-needs tests
+Then create the following presidents: George Washington, Abraham Lincoln, Richard Nixon, and Jimmy Carter.
 
