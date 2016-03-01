@@ -15,13 +15,15 @@ Add following methods to the prototype:
 
 + `veto` - returns NO!
 
-+ `passBill` - returns "you can do that!"
++ `passBill` - returns "You can do that!"
 
 + `doCharity` - returns "I like to help people"
 
-+ `conductPressInterview` - "I am proud to be an american"
++ `conductPressInterview` - "I am proud to be an American."
 
 + `sayHi` - return "Hi, my name is <name>, I am from <homestate>. I represent <politcalParty> and am from <homeState>."
 
 Then create the following presidents: George Washington, Abraham Lincoln, Richard Nixon, and Jimmy Carter.
 
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-object-methods-lab'>Object Methods in JS Lab</a> on Learn.co and start learning to code for free.</p>
