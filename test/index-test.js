@@ -38,7 +38,7 @@ describe('#onductPressInterview', function() {
 })
 
 describe('#sayHi', function() {
-  it('returns "Hi, my name is <name>, I am from <homestate>. I represent the <politcalParty>s and am from <homeState>."', function() {
+  it('returns "Hi, my name is <name>, I am from <homestate>. I represent the <politcalParty>s and was in office <yearsInOffice>."', function() {
     expect(lyndonJohnson.sayHi()).toEqual("Hi, my name is Lyndon B Johnson. I am from Texas. I represent the Democrats, and was in office 1963-1969.")
   })
 })
