@@ -19,8 +19,10 @@ Add following methods to the class:
 
 + `conductPressInterview` — returns `I am proud to be an American.`
 
-+ `sayHi` — returns `Hi, my name is <name>. I am from <homestate>. I represent the <politcalParty>s, and was in office <yearsInOffice>.`
++ `sayHi` — returns `Hi, my name is <name>. I am from <homestate>. I represent the <politicalParty>s, and was in office <yearsInOffice>.`
 
 Then create the following presidents: George Washington, Abraham Lincoln, Richard Nixon, and Jimmy Carter.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-object-methods-lab' title='Object Methods in JS Lab '>Object Methods in JS Lab</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/js-object-methods-lab'>Object Methods Lab</a> on Learn.co and start learning to code for free.</p>
