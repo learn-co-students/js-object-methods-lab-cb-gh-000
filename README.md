@@ -1,4 +1,4 @@
-# Object Methods in JS Lab
+u# Object Methods in JS Lab
 
 ## Objectives
 + Create constructor functions
